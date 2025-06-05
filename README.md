@@ -1,6 +1,7 @@
 # ubuntu-xfce-vnc
 
-Imatge Docker basada en Ubuntu 24.04 amb entorn gràfic XFCE, servidor VNC, Visual Studio Code, Python i SSH.
+Imatge Docker basada en Ubuntu 24.04 amb entorn gràfic XFCE, servidor VNC, Visual Studio Code, Python i SSH. 
+---
 Dockerhub: https://hub.docker.com/repository/docker/guigoro/ubuntu-xfce-vnc/general
 ---
 
